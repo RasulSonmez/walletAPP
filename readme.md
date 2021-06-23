@@ -5,5 +5,5 @@
 </a>By PROTOTURK Youtube channel</p>
 
 <h6>One Page<h6> 
-  <h2> <a href="https://linkedinclonedifferent.netlify.app/" rel="nofollow">Demo website</a> </h2>
+  <h2> <a href="https://walletapp1.netlify.app/" rel="nofollow">Demo website</a> </h2>
  
